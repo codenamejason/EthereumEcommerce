@@ -21,7 +21,11 @@ Let's say a product is listed at $10. You can bid any amount greater than $10.
 5. No more bids are placed and so Alice wins. Even though Alice bid $17, she only has to pay $15.25.
 
 # Run the Project using Following Steps
+``` bash
 
+#install Dependencies
  npm install
 
+#Run
  npm run dev
+```
