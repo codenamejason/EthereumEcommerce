@@ -1,4 +1,4 @@
-# EthereumEcommerce
+# Decentralised MarketPlace on Ethereum
 Ebay dApp in Ethereum
 
 This dApp has a Vickery Auction for users to purchase products and then the product handling is done by Escrow contract
