@@ -1,0 +1,99 @@
+#product-details-page #product-desc,#product-details-page .bid-details{
+    padding:2em
+}
+.col-margin-bottom-1{
+    margin-bottom:1em
+}
+a{
+    cursor:pointer
+}
+.navbar.main{
+    background:#5f6d7f;
+    color:#fff
+}
+.navbar.main .list.nav-link{
+    background:#01bf86
+}
+.navbar.main a{
+    color:#fff
+}
+.navbar ul{
+    list-style:none
+}
+.side-bar.col-sm-2{
+    margin-left:1em;
+    border-right:1px solid #5f6d7f
+}
+#product-list.row,.container-fluid .row{
+    margin-left:0
+}
+#product-finalize-list,#product-list .row{
+    margin-top:2em
+}
+#categories a,.categories a,.row h2{
+    color:#5f6d7f
+}
+#product-list .row>div,#product-list a,#product-reveal-list a{
+    color:#01bf86
+}
+#product-finalize-list img,#product-list img,#product-reveal-list img{
+    width:150px;
+    height:150px
+}
+.container-fluid .title{
+    font-size:1.2em;
+    font-weight:700;
+    margin-top:1em
+}
+#product-finalize-list a,#product-list .details,.container-fluid .title{
+    color:#5f6d7f
+}
+.product .details{
+    text-decoration:underline
+}
+.time{
+    font-style:italic
+}
+#product-finalize-list .row>div{
+    color:#e76e6e
+}
+#product-details-page{
+    color:#5f6d7f;
+    background-color:#e9ebef
+}
+#product-details-page h4{
+    margin-top:0;
+    font-size:20px
+}
+#product-details-page h4.align{
+    margin-left:15px;
+    font-style:italic
+}
+#product-details-page #product-price{
+    color:#01bf86
+}
+#product-details-page #product-image{
+    padding:2em 1em;
+    border-radius:10px;
+    background-color:#fff
+}
+#product-details-page h1{
+    color:#5f6d7f
+}
+#product-details-page h2.product-name{
+    color:#01bf86;
+    margin-top:0;
+    margin-bottom:1em
+}
+#product-details-page #product-auction-end{
+    color:#e76e6e;
+    font-style:italic;
+    font-size:17px
+}
+#product-details-page #product-reveal{
+    margin-top:3em
+}
+#product-details-page button.form-submit{
+    background-color:#01bf86;
+    color:#fff
+}
