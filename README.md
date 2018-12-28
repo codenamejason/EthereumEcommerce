@@ -22,6 +22,6 @@ Let's say a product is listed at $10. You can bid any amount greater than $10.
 
 # Run the Project using Following Steps
 
-## npm install
+ npm install
 
-## npm run dev
+ npm run dev
