@@ -19,3 +19,9 @@ Let's say a product is listed at $10. You can bid any amount greater than $10.
 3. John now sees the bid is $10.75 and he bids $12 but eBay bids on behalf of Mary (because she has bid $15) and ups the bid to $12.25 ($0.25 more than what John bid). So, John loses the bid.
 4. Now Alice decides to bid $17. Since Alice's bid is higher than Mary's, eBay sets the bid price to $15.25 ($0.25 more than Mary's bid). Mary loses the bid (she can bid a higher amount if she likes).
 5. No more bids are placed and so Alice wins. Even though Alice bid $17, she only has to pay $15.25.
+
+# Run the Project using Following Steps
+
+## npm install
+
+## npm run dev
