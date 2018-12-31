@@ -3,7 +3,7 @@ Ebay dApp in Ethereum
 
 This dApp has a Vickery Auction for users to purchase products and then the product handling is done by Escrow contract
 
-Technologies used : Ethereum, Truffle, Solidity, web3.js, Node.js
+Technologies used : Ethereum, Truffle, Solidity, IPFS for storing large files and images, web3.js, Node.js and MongoDB for quick filter of data
 
 Smart Contracts : EcommerceStore.sol and Escrow.sol
 
