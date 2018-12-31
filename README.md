@@ -1,4 +1,4 @@
-Decentralised MarketPlace on Ethereum
+# Decentralised MarketPlace on Ethereum
 Ebay dApp in Ethereum
 
 This dApp has a Vickery Auction for users to purchase products and then the product handling is done by Escrow contract
@@ -7,7 +7,7 @@ Technologies used : Ethereum, Truffle, Solidity, web3.js, Node.js
 
 Smart Contracts : EcommerceStore.sol and Escrow.sol
 
-How Vikery Auction works
+# How Vikery Auction works
 We have successfully added a product to the blockchain. Now, users should be able to bid on your product just like on eBay.
 
 eBay has a few different types of auctions such as incremental bidding, automatic bidding etc. Below is an example showing how eBay's automatic bidding works:
